@@ -1,1 +1,1 @@
-shell basics
+git shell basics
